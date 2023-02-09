@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Hamdy Mohamed</h1>
 <h2 align="left">Flutter Developer</h2>
-<h3 align="left">Ambitious software engineer with 1 year experience in mobile applications development.<br>
+<h3 align="left">Ambitious software engineer with 2 years experience in mobile applications development.<br>
 My Journey started with learning the fundamentals of programming Moving to learn<br>
  flutter to build cross-platform apps. Always seeking for challenges and opportunities<br>
  that will help advance my career progression to higher positions in the future.<br></h3>
