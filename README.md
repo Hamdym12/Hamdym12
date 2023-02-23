@@ -1,4 +1,4 @@
-<h1 align="center">Hi🫡, I'm Hamdy Mohamed</h1>
+<h1 align="center">Hi 😄, I'm Hamdy Mohamed</h1>
 <h2 align="center">Flutter Developer</h2>
 <h3 align="center">Innovative software engineer with 2 years experience in mobile app development. Extensive expertise<br>
 in building cross-platform apps using flutter and dart. Talented team member with unique ideas and <br>
