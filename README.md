@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-I'm a **results-driven Flutter Developer** with **4+ years of experience** building **high-performance, cross-platform mobile applications** for **iOS and Android**.  
+I'm a **results-driven Flutter Developer** with **4+ years of experience** building **high-performance, cross-platform mobile applications** for **iOS, Android, and Web**.  
 
 I specialize in:
 - ⚙️ **State Management:** Riverpod, Bloc, Provider  
@@ -20,11 +20,15 @@ I specialize in:
 ---
 
 ### 🏆 Highlights
-- 🧠 Built and maintained full-scale apps from **inception to production**.  
-- 📱 Expert in **performance optimization** and **frame stability** for smooth animations.  
-- 🔗 Integrated **in-app payment systems**.  
-- ☁️ Deployed apps to **App Store** and **Play Console** with continuous updates.  
-- 🤖 Implemented **AI-driven features** and **kids learning experiences** in Flutter.
+- 🧩 **Architected scalable apps** across **FinTech, EdTech, HealthTech, and E-commerce**, focusing on modular, maintainable codebases.  
+- ⚙️ **Revamped and optimized** core features for multiple products, significantly improving **performance, stability, and user retention**.  
+- 💳 **Integrated complex payment flows** (Stripe, MyFatoorah, Apple Pay, Google Pay) with a strong focus on reliability and security.  
+- 🔗 **Implemented deep links, event tracking, and analytics** for growth and better user engagement.  
+- 🧠 **Applied Clean Architecture & MVVM patterns**, ensuring testability and clean separation of concerns.  
+- 🌍 **Developed full projects from concept to deployment**, leading end-to-end delivery for cross-functional teams.  
+- 🧰 **Enhanced app stability**, achieving a **99% crash-free rate** and smooth 60 FPS animations across devices.  
+- 🧒 **Built AI-driven and interactive learning features** for kids using Flutter and optimized video playback.  
+- ☁️ **Deployed and maintained** production apps on **App Store** and **Play Console**, automating release pipelines with CI/CD.  
 
 ---
 
@@ -50,4 +54,4 @@ I specialize in:
 
 ---
 
-⭐️ *“Clean code, smooth performance, and user delight — that’s my daily mission.”*
+⭐️ *“Clean code, smooth performance, and seamless user experience — that’s my daily mission.”*
