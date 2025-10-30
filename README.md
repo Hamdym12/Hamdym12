@@ -2,7 +2,7 @@
 <h2 align="center">💻 Senior Flutter Developer | Mobile Engineer</h2>
 
 <p align="center">
-🚀 Passionate about building performant, scalable, and user-centric mobile solutions that drive business impact and enhance user experience.
+🚀 Building scalable, performant, and user-centric mobile solutions.
 </p>
 
 ---
