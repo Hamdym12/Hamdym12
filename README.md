@@ -41,7 +41,7 @@ I specialize in:
 
 ## 🚀 Featured Projects  
 
-### 🟢 Colada | كولادا  
+### Colada | كولادا  
 A lifestyle and beverage ordering app — revamped core features, optimized performance, and integrated **MyFatoorah + Apple Pay** for seamless, secure transactions.  
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.colada.coladaapp&hl=en&gl=US">
@@ -67,7 +67,7 @@ A **kids learning app** built from scratch — featuring animations, voice actin
 
 ---
 
-### 🟠 Colada Cashier  
+### Colada Cashier  
 A **smart cashier companion app** developed using **Clean Architecture** and **Riverpod**, handling live orders and WebSocket event updates.  
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.colada.coladaCashier">
@@ -80,7 +80,7 @@ A **smart cashier companion app** developed using **Clean Architecture** and **R
 
 ---
 
-### 🔵 Colada Lite  
+### Colada Lite  
 A **lightweight version** of the Colada app optimized for speed, **AppClip**, and smoother onboarding experience.  
 <p>
   <a href="https://lite.coladaapp.io/">
@@ -93,7 +93,7 @@ A **lightweight version** of the Colada app optimized for speed, **AppClip**, an
 
 ---
 
-### 🔴 First Wash  
+### First Wash  
 A **car service and wash app** integrating **Google Maps** for booking and precise service delivery.  
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.first.wash">
@@ -106,7 +106,7 @@ A **car service and wash app** integrating **Google Maps** for booking and preci
 
 ---
 
-### 🟢 Water Note  
+### Water Note  
 A **water delivery app** serving Saudi Arabia — connects users with the nearest source using GPS and real-time updates.  
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.water_note.azom_project&hl=en_US&gl=US">
@@ -119,7 +119,7 @@ A **water delivery app** serving Saudi Arabia — connects users with the neares
 
 ---
 
-### 🟣 Exemore  
+### Exemore  
 A **B2B apparel marketplace** connecting Egyptian vendors with global buyers, supporting secure orders and tracking.  
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.exemore.exemore">
@@ -132,7 +132,7 @@ A **B2B apparel marketplace** connecting Egyptian vendors with global buyers, su
 
 ---
 
-### 🔵 Delopus  
+### Delopus  
 A **content and marketplace app** — enhanced **WebView**, integrated **YouTube Player**, and improved **auth UX**.  
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.delopus.ddddd&hl=ar">
