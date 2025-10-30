@@ -150,14 +150,6 @@ I enhanced WebView handling for its HTML-based interface, optimized YouTube play
   </a>
 </p>
 
-
-I specialize in:
-- ⚙️ **State Management:** Riverpod, Bloc, Provider  
-- 🔌 **API & SDK Integrations:** Firebase, RESTful APIs, Stripe / Apple Pay, MyFatoorah  
-- 🎨 **UI/UX:** Building responsive, accessible, and fluid user interfaces  
-- 🚀 **CI/CD:** Fastlane, GitHub Actions, and automated deployment pipelines  
-- 🧩 **Architecture:** Clean Architecture, SOLID, and modular scalable codebases  
-
 ---
 
 ### 🏆 Highlights
