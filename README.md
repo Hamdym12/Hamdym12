@@ -41,7 +41,7 @@ I revamped the core features, enhanced performance, and integrated MyFatoorah an
 ---
 
 ### Maharat Tafl | مهارة طفل  
-Maharat Tifl was developed to help children improve their speaking and social interaction skills.  
+Maharat-Tafl was developed to help children improve their speaking and social interaction skills.  
 It provides word and expression examples designed by doctors, along with interactive tests in each section to boost children’s abilities.  
 Built entirely with Flutter and integrated with Stripe, Apple Pay, and Visa for secure payments.  
 <p>
