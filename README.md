@@ -1,14 +1,10 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFA6;">Hamdy Mohamed</span></h1>
 <h2 align="center">💻 Senior Flutter Developer | Mobile Engineer</h2>
 
-<p align="center">
-🚀 Building scalable, performant, and user-centric mobile solutions.
-</p>
-
 ---
 
 ### 🧠 About Me
-I'm a **results-driven Flutter Developer** with **4+ years of experience** building **high-performance, cross-platform mobile applications** for **iOS, Android, and Web**.
+I'm a **results-driven Flutter Developer** with **4+ years of experience** building **high-performance, **scalable and **user-centric cross-platform mobile applications** for **iOS, Android, and Web**.
 
 ---
 
