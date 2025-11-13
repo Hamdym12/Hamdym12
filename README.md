@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me
-I'm a **results-driven Flutter Developer** with **4+ years of experience** building **high-performance, calable and user-centric cross-platform mobile applications** for **iOS, Android, and Web**.
+I'm a **Senior Mobile Developer** with **4+ years of experience** building **high-performance, calable and user-centric cross-platform mobile applications** for **iOS, Android, and Web using Flutter**.
 
 ---
 
