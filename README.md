@@ -4,7 +4,7 @@
 ---
 
 ###
-I'm a **Senior Mobile Developer** with **+4 years of experience** building **high-performance, calable and user-centric cross-platform mobile applications** for **iOS, Android, and Web using Flutter**.
+I'm a **Senior Mobile Developer** with **+4 years of experience** building **high-performance, scalable and user-centric cross-platform mobile applications** for **iOS, Android, and Web using Flutter**.
 
 ---
 
