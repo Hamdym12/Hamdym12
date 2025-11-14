@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFA6;">Hamdy Mohamed</span></h1>
-<h2 align="center">Senior Flutter Developer | Mobile Engineer</h2>
+<h1 align="start">👋 Hi, I'm <span style="color:#00BFA6;">Hamdy Mohamed</span></h1>
+<h2 align="start">Senior Flutter Developer | Mobile Engineer</h2>
 
 ---
 
