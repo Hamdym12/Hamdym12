@@ -61,7 +61,7 @@ Built entirely with Flutter and integrated with Stripe, Apple Pay, and Visa for 
 
 ---
 
-Turki Dabayh | تركي للذبائح
+### Turki Dabayh | تركي للذبائح
 Turki Dabayh is one of the leading meat delivery services in Saudi Arabia, offering fresh, high quality meat with fast delivery and a smooth ordering experience.
 I contributed to enhancing app performance, improving UX flows, and ensuring a stable and reliable shopping and checkout process across Android and iOS.
 <p> <a href="https://play.google.com/store/apps/details?id=com.digishapes.turkieshop&hl=ar&gl=US"> <img src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white"/> </a> <a href="https://apps.apple.com/sa/app/turki-dabayh-%D8%AA%D8%B1%D9%83%D9%8A-%D9%84%D9%84%D8%B0%D8%A8%D8%A7%D8%A6%D8%AD/id1115628569"> <img src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/> </a> </p>
