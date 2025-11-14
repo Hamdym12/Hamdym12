@@ -9,12 +9,12 @@ I'm a **Senior Mobile Developer** with **+4 years of experience** building **hig
 ---
 
 ### About me 
-💼 Senior Flutter Developer at Colada
-📱 Built, delivered, and maintained over 16 production mobile apps used by thousands of users
-🧱 Passionate about building scalable architectures, clean codebases, and maintainable long term solutions
-⚙️ Experienced in payments, maps, notifications, authentication, analytics, and complex mobile integrations
-🚀 Focused on performance, smooth UX, and reliability across Android and iOS
-🌍 Based in Riyadh, Saudi Arabia
+- 💼 Senior Flutter Developer at Colada
+- 📱 Built, delivered, and maintained over 16 production mobile apps used by thousands of users
+- 🧱 Passionate about building scalable architectures, clean codebases, and maintainable long term solutions
+- ⚙️ Experienced in payments, maps, notifications, authentication, analytics, and complex mobile integrations
+- 🚀 Focused on performance, smooth UX, and reliability across Android and iOS
+- 🌍 Based in Riyadh, Saudi Arabia
 
 ---
 
