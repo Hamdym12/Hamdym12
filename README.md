@@ -8,7 +8,7 @@ I'm a **Senior Mobile Developer** with **4+ years** of experience delivering hig
 
 ---
 
-### About me 
+### 👨‍💻 About me 
 - 💼 Senior Flutter Developer at Colada
 - 📱 Built, delivered, and maintained over 16 production mobile apps used by thousands of users
 - 🧱 Passionate about building scalable architectures, clean codebases, and maintainable long term solutions
