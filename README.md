@@ -1,10 +1,20 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFA6;">Hamdy Mohamed</span></h1>
-<h2 align="center">💻 Senior Flutter Developer | Mobile Engineer</h2>
+<h2 align="center">Senior Flutter Developer | Mobile Engineer</h2>
 
 ---
 
-### 🧠 About Me
+###
 I'm a **Senior Mobile Developer** with **4+ years of experience** building **high-performance, calable and user-centric cross-platform mobile applications** for **iOS, Android, and Web using Flutter**.
+
+---
+
+### About me 
+💼 Senior Flutter Developer at Colada
+📱 Built, delivered, and maintained over 16 production mobile apps used by thousands of users
+🧱 Passionate about building scalable architectures, clean codebases, and maintainable long term solutions
+⚙️ Experienced in payments, maps, notifications, authentication, analytics, and complex mobile integrations
+🚀 Focused on performance, smooth UX, and reliability across Android and iOS
+🌍 Based in Riyadh, Saudi Arabia
 
 ---
 
@@ -145,19 +155,6 @@ I enhanced WebView handling for its HTML-based interface, optimized YouTube play
     <img src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🏆 Highlights
-- 🧩 **Architected scalable apps** across **FinTech, EdTech, HealthTech, and E-commerce**, focusing on modular, maintainable codebases.  
-- ⚙️ **Revamped and optimized** core features for multiple products, significantly improving **performance, stability, and user retention**.  
-- 💳 **Integrated complex payment flows** (Stripe, MyFatoorah, Apple Pay, Google Pay) with a strong focus on reliability and security.  
-- 🔗 **Implemented deep links, event tracking, and analytics** for growth and better user engagement.  
-- 🧠 **Applied Clean Architecture & MVVM patterns**, ensuring testability and clean separation of concerns.  
-- 🌍 **Developed full projects from concept to deployment**, leading end-to-end delivery for cross-functional teams.  
-- 🧰 **Enhanced app stability**, achieving a **99% crash-free rate** and smooth 60 FPS animations across devices.  
-- 🧒 **Built AI-driven and interactive learning features** for kids using Flutter and optimized video playback.  
-- ☁️ **Deployed and maintained** production apps on **App Store** and **Play Console**, automating release pipelines with CI/CD.  
 
 ---
 
