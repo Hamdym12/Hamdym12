@@ -4,8 +4,7 @@
 ---
 
 ###
-I'm a **Senior Mobile Developer** with **+4 years of experience** building **high-performance, scalable and user-centric cross-platform mobile applications** for **iOS, Android, and Web using Flutter**.
-
+I'm a Senior Mobile Developer with 4+ years of experience delivering high performance, scalable, and production ready Flutter applications across iOS, Android, and Web. I specialize in clean architecture, optimized performance, robust state management, seamless integrations (payments, maps, analytics, notifications), and building reliable, maintainable codebases that scale in real world environments.
 ---
 
 ### About me 
