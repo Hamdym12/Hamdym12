@@ -19,7 +19,7 @@ I'm a **Senior Mobile Developer** with **+4 years of experience** building **hig
 ---
 
 ### 📫 Connect With Me
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/hamdy-mohamed-01a1b0226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
