@@ -32,6 +32,20 @@ I'm a **Senior Mobile Developer** with over **5 years** of experience delivering
 
 ## 🚀 Featured Projects  
 
+### Avnzor | أفنزور  
+Avnzor is a leading health, beauty and supplements marketplace that sells international brands from all over the world in one place.
+I revamped the core features, enhanced performance, and integrated PayTabs SDK to enable Apple Pay and Card Payment for a seamless, secure ordering and payment experience.
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.avnzor.shop">
+    <img src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
+  <a href="https://apps.apple.com/ae/app/avnzor/id6756059267">
+    <img src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### Colada | كولادا  
 Colada delivers the best food and drink offers with 100% cashback on the first order and daily discounts for top restaurants and cafés.  
 I revamped the core features, enhanced performance, and integrated MyFatoorah and Apple Pay for a seamless, secure ordering and payment experience.  
