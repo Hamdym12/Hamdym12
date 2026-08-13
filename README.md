@@ -9,7 +9,7 @@ I'm a **Senior Mobile Developer** with over **5 years** of experience delivering
 ---
 
 ### 👨‍💻 About me 
-- 💼 Senior Flutter Developer at Colada
+- 💼 Senior Mobile Developer at Avnzor
 - 📱 Built, delivered, and maintained over 16 production mobile apps used by thousands of users
 - 🧱 Passionate about building scalable architectures, clean codebases, and maintainable long term solutions
 - ⚙️ Experienced in payment systems, mobile security, maps, push notifications, authentication flows, analytics, and third-party SDKs
